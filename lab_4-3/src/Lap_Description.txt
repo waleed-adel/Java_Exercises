@@ -1,0 +1,4 @@
+4-3 Animation Ball Applet
+
+•Create an applet that displays ball which moves
+randomly on this applet.

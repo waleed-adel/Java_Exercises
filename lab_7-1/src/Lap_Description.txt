@@ -1,0 +1,5 @@
+7-1 Hello World
+
+❑ Create the Hello World application to match the following
+style.
+--> Using JavaFX code [ Reflection , LinearGradient ]

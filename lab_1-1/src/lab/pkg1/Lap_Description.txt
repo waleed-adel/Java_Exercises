@@ -1,0 +1,8 @@
+1-1 Simple Prompt Application
+
+Create a simple non-GUI Application that prints out the
+following text on the command prompt:
+Hello Java
+• Modify the program to print a string that is passed as an
+argument from the command prompt.
+• Note: specify package and create executable jar file.

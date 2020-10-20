@@ -1,0 +1,5 @@
+3-4 Drawing a Lamp on Applet
+
+Create an applet that makes use of the Graphics class
+drawing methods.
+Try to draw a lamp like the one in the 'Lamp.png' file

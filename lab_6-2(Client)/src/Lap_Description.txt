@@ -1,0 +1,5 @@
+6-2 client/server application (with GUI)
+
+• Write the simple client/server application.
+• Complete the GUI client side application of the Chat room
+Application.

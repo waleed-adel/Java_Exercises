@@ -1,0 +1,3 @@
+6-1 client/server (without GUI)
+
+Write the simple client/server application.

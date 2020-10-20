@@ -1,0 +1,8 @@
+2-2 Command Line Calculator
+
+Create a simple non-GUI Application that carries out the
+functionality of a basic calculator (addition, subtraction,
+multiplication, and division).
+• The program, for example, should be run by typing the
+following at the command prompt:
+java Calc 70 + 30

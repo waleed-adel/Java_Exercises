@@ -1,0 +1,5 @@
+3-3 List of Fonts on Applet
+
+Create an applet that displays the list of available fonts in the
+underlying platform.
+• Each font should be written in its own font.

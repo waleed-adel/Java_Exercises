@@ -1,0 +1,4 @@
+5 Animation Ball and String Marquee Applet
+
+•Create an applet that displays ball which moves
+randomly on this applet and a marquee string on it.

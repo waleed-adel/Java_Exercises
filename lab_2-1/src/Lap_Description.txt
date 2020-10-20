@@ -1,0 +1,19 @@
+2-1 Pyramids
+
+Create a simple non-GUI Application that prints out the
+following on the command prompt:
+• Half Pyramid
+*
+**
+***
+****
+*****
+
+• Full Pyramid
+     *
+		***
+	 *****
+	*******
+ *********
+ 
+Note: the number of rows is entered as an argument before running.
